@@ -275,4 +275,20 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 :-webkit-full-screen-ancestor .masthead, :-webkit-full-screen-ancestor .page__footer { position: static; }
 
+.scrollup { position: fixed; bottom: 10%; right: 3%; padding: 5px 15px; color: #fff; background-color: rgba(0, 0, 0, 0.1); border-radius: 4px; display: none; }
+
+.scrollup:hover, .scrollup:active, .scrollup:focus { color: #fff; background-color: rgba(0, 0, 0, 0.15); }
+
+.themes { display: none; /* 	max-width: 400px; */ }
+
+#totop { position: fixed; bottom: 10px; right: 20px; }
+
+#totop { display: none; }
+
+a:hover { text-decoration: none; }
+
+.js-data-loadmore { display: none; }
+
+.loadmore { display: block; margin: 0 auto; width: 200px; cursor: pointer; }
+
 /*# sourceMappingURL=agency.css.map */
