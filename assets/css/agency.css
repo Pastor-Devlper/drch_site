@@ -275,7 +275,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 :-webkit-full-screen-ancestor .masthead, :-webkit-full-screen-ancestor .page__footer { position: static; }
 
-.scrollup { position: fixed; bottom: 10%; right: 3%; padding: 5px 15px; color: #fff; background-color: rgba(0, 0, 0, 0.1); border-radius: 4px; display: none; }
+.scrollup { position: fixed; bottom: 10%; right: 5%; padding: 5px 15px; color: #fff; background-color: rgba(0, 0, 0, 0.1); border-radius: 4px; display: none; }
 
 .scrollup:hover, .scrollup:active, .scrollup:focus { color: #fff; background-color: rgba(0, 0, 0, 0.15); }
 
